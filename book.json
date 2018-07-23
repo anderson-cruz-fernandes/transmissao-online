@@ -1,0 +1,28 @@
+{
+    "title": "Transmissão Online",
+    "language": "pt",
+    "author": "Amderson Cruz Fernandes",
+    "root": "./manuscript",
+    "structure": {
+        "readme": "introducao.md",
+        "glossary": "glossario.md",
+        "summary": "sumario.md"
+    },
+    "plugins": [
+      "disqus",
+      "ga",
+      "github"
+    ],
+    "pluginsConfig": {
+      "disqus": {
+        "shortName": ""
+      },
+      "ga": {
+        "token": ""
+      },
+      "github": {
+        "url": "https://github.com/anderson-cruz-fernandes/transmissao-online"
+      }
+    }
+
+}
