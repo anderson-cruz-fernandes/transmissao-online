@@ -5,7 +5,7 @@ description: >-
   Firefox
 ---
 
-# Share Screen
+# Compartilando a tela \(Share Screen\)
 
 {% tabs %}
 {% tab title="Google Chrome" %}

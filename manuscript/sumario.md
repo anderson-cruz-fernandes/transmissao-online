@@ -11,7 +11,7 @@
 * [Calculando qualidade da transmissão pela velocidade de internet\(a fazer\)](sumario/qualidade.md)
 * [Zoom Meetings \(a fazer\)](sumario/zoom-mettings.md)
 * [StreamYard](sumario/streamyard/README.md)
-  * [Share Screen](sumario/streamyard/share-screen.md)
+  * [Compartilando a tela \(Share Screen\)](sumario/streamyard/share-screen.md)
 * [OBS Studio\(a fazer\)](sumario/obsstudio.md)
 * [Configurando transmissão pelo Youtube\(a fazer\)](sumario/youtube.md)
 * [Configurando transmissão pelo Facebook\(a fazer\)](sumario/facebook.md)
