@@ -67,7 +67,7 @@ Também é definido qual data e hora de início da programação.
 
 ![](../../.gitbook/assets/image1365%20%281%29.png)
 
-![Imagem tal](../../.gitbook/assets/image205%20%282%29.png)
+![Imagem tal](../../.gitbook/assets/image205%20%283%29.png)
 
 #### Item 1 - Configuração de Áudio e e Vídeo
 
@@ -77,7 +77,7 @@ Nesta parte habilitamos o Microfone e o Vídeo. Também podem ser realizadas con
 
 Aqui se define qual vai ser o nome que será exibida na transmissão para o participante.
 
-![](../../.gitbook/assets/image205%20%281%29.png)
+![](../../.gitbook/assets/image205%20%282%29.png)
 
 #### Item 1 - Tela de visualização \(Preview\)
 
